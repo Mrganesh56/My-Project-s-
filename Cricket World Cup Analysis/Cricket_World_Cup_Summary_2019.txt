@@ -1,0 +1,24 @@
+World Cup 2019 Summary:
+Total Runs Scored by Each Team:
+AFG: 1831.0
+AUS: 2901.0
+BAN: 2278.0
+ENG: 3201.0
+IND: 2516.0
+NZ: 2154.0
+PAK: 2025.0
+SA: 1905.0
+SL: 1621.0
+WI: 1969.0
+
+Total Wickets Taken by Each Team:
+AFG: 51.0
+AUS: 80.0
+BAN: 66.0
+ENG: 95.0
+IND: 77.0
+NZ: 87.0
+PAK: 61.0
+SA: 61.0
+SL: 40.0
+WI: 56.0

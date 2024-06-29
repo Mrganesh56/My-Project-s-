@@ -1,0 +1,36 @@
+World Cup 2007 Summary:
+Total Runs Scored by Each Team:
+AUS: 2851.0
+BAN: 1372.0
+BER: 328.0
+CAN: 676.0
+ENG: 2014.0
+IND: 789.0
+IRE: 1452.0
+KEN: 563.0
+NED: 401.0
+NZ: 2280.0
+PAK: 668.0
+SA: 2251.0
+SCO: 453.0
+SL: 2673.0
+WI: 2040.0
+ZIM: 522.0
+
+Total Wickets Taken by Each Team:
+AUS: 104.0
+BAN: 62.0
+BER: 14.0
+CAN: 14.0
+ENG: 65.0
+IND: 21.0
+IRE: 53.0
+KEN: 20.0
+NED: 18.0
+NZ: 79.0
+PAK: 26.0
+SA: 76.0
+SCO: 11.0
+SL: 91.0
+WI: 60.0
+ZIM: 23.0
